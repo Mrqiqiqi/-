@@ -1,0 +1,7 @@
+<view class="four">要注意消防栓的位置</view>
+<view class="ten">如有需要请及时打开使用</view>
+<view class="five">请勿乘坐电梯逃生！</view>
+<view class="six">请冷静寻找正确的逃生路线</view>
+<button class="one" type="default" bindtap="1">一层</button>
+<button class="two" type="default" bindtap="2">二层</button>
+<button class="three" type="default" bindtap="3">三层</button>

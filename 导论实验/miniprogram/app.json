@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/call/call",
+    "pages/run/run",
+    "pages/map/map",
+    "pages/waring/waring",
+    "pages/else/else",
+    "pages/else2/else2",
+    "pages/else3/else3",
+    "pages/map2/map2",
+    "pages/map3/map3"
+  ],
+  "window": {
+    "backgroundColor": "#F6F6F6",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#F6F6F6",
+    "navigationBarTitleText": "助你逃出生天",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2",
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "主页",
+        "iconPath": "images/房子1.jpg",
+        "selectedIconPath": "images/房子2.jpg"
+      },
+      {
+        "pagePath": "pages/call/call",
+        "text": "一键呼叫",
+        "iconPath": "images/电话1.jpg",
+        "selectedIconPath": "images/电话2.jpg"
+      },
+      {
+        "pagePath": "pages/run/run",
+        "text": "逃生路线",
+        "iconPath": "images/路线2.jpg",
+        "selectedIconPath": "images/路线1.jpg"
+      },
+      {
+        "pagePath": "pages/waring/waring",
+        "text": "提示",
+        "iconPath": "images/注2.jpg",
+        "selectedIconPath": "images/注1.jpg"
+      }
+    ]
+  }
+}

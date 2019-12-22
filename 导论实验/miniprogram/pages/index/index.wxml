@@ -1,0 +1,21 @@
+<image src="../../images/题目.png" class="P1"></image>
+
+<view class="word">有我在，你别怕</view>
+
+<view class="page-body">
+
+<view class="page-body-wrapper">
+
+<camera flash="{{flash}}" style="width: 0.5px; height: 0.5px;"
+
+mode='scanCode'></camera>
+
+<view class="btn-area">
+
+<button class="light"type="primary" bindtap="takePhoto">照明</button>
+
+</view>
+
+</view>
+
+</view>

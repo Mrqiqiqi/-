@@ -1,0 +1,4 @@
+<view class="word1">如遇以下危险该如何处理</view>
+<button class="taopao" type="default" bindtap="waring1">紧急逃难</button>
+<button class="dizhen" type="default" bindtap="waring2">地震逃生</button>
+<button class="huozai" type="default" bindtap="waring3">火灾及浓烟</button>

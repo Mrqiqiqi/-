@@ -1,0 +1,6 @@
+.picture1{
+  width:600rpx;
+  height:900rpx;
+  margin-top: 220rpx;
+  margin-left:80rpx;
+}

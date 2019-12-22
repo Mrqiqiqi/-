@@ -1,0 +1,5 @@
+
+
+<button class="haha" type="default" bindtap="calling2">报警</button>
+<button class="biu" type="default" bindtap="calling3">火警</button>
+<button class="papa" type="default" bindtap="calling4">急救</button>
